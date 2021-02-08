@@ -1,4 +1,4 @@
-package hellojava
+package hellojava;
 
 public class helloworld{
 
